@@ -12,8 +12,8 @@ pdf::	## pdf
 	docker run --rm --init -u `id -u ${USER}` \
 		-v ${PWD}/docs:/home/marp/app/ -e LANG=${LANG} \
 		marpteam/marp-cli \
-		20201124-jazugn28-bicep.md \
-		-o tmp/20201124-jazugn28-bicep.pdf \
+		20201125-jazugn29-bicep.md \
+		-o tmp/20201125-jazugn29-bicep.pdf \
 		--pdf --allow-local-files
 
 marp::	## marp-cli
