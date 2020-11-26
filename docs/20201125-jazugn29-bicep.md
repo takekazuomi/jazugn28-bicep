@@ -129,9 +129,9 @@ bicep decompile azueredeploy.json
 `bicep` は、ARM Template の生産性を上げるツールとして秀逸。ARM（腕）、bicep（上腕二頭筋）という名前付けらしい。読み方は、[バイセップ](https://youtu.be/ykHA5QTYlDc?t=2)
 
 - 今回のコンテンツ、
-  - GitHub [jazugn28-bicep](https://github.com/takekazuomi/jazugn28-bicep)
-  - slide share [jazugn28-bicep](https://www.slideshare.net/takekazuomi/jazugn28-bicep)
-- このスライドは[Marp]((https://github.com/marp-team/marp-cli#docker))を使っています。ありがとうございました。
+  - GitHub [jazugn29-bicep](https://github.com/takekazuomi/jazugn29-bicep)
+  - slide share [jazugn29-bicep](https://www.slideshare.net/takekazuomi/jazugn29bicep)
+- Powerd by [Marp](https://github.com/marp-team/marp-cli#docker)。ありがとうございました。
 
 # 終
 
